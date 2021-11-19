@@ -1,14 +1,3 @@
-Hi 👋, I'm ramiro villamizar
-soy nuevo en este mundo de la programacion, pero muy apasionado, y con ganas de comerme el mundo
-
-👨‍💻 mira mis proyectos en: https://github.com/pivotsk8
-
-💬 hablemos de: react, redux,JS , express
-
-📫si me quieres escribir: the_pivotsk8@hotmail.com
-
-Connect with me:
-https://www.linkedin.com/in/ramiro-antonio-villamizar-ramirez-433135218/
-
-Languages and Tools:
-css3 express html5 javascript mysql nodejs postgresql react reactnative redux
+<p align="center">
+  <img src="https://scontent.faep8-1.fna.fbcdn.net/v/t39.30808-6/257449986_10223254876854526_2584921497184874201_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeE2q0XCBtJLk2h_0PXI05nxBbNq1yxzrrUFs2rXLHOutVTLdHefqz5YdggpT9VQjzQ&_nc_ohc=nMeLr_nmz3IAX80RXhf&_nc_ht=scontent.faep8-1.fna&oh=8a92b49dcf177719fc35b3aab5d15b27&oe=6199991B" alt='Hello There 👋👋' />
+</p>
